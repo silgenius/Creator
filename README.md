@@ -16,3 +16,6 @@ To run Creator locally, follow these steps:
    git clone https://github.com/yourusername/creator.git
    cd creator
    ```
+
+## Author
+- [Olutade Martin]('')
