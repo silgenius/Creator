@@ -1,7 +1,7 @@
 # Creator 🎭✨ – The Ultimate Poetry Platform
 
 ## Overview
-**Creator** is a private platform designed for poetry enthusiasts to explore, share, and appreciate poetry in its purest form. Whether you are an aspiring poet or an avid reader, Creator offers a space to engage with carefully curated content and contribute your own works, anonymously or as a verified creator.
+**Creator** is a platform designed for poetry enthusiasts to explore, share, and appreciate poetry in its purest form. Whether you are an aspiring poet or an avid reader, Creator offers a space to engage with carefully curated content and contribute your own works, anonymously or as a verified creator.
 
 ## Features
 - 📖 **Curated Poetry** – Discover a collection of expertly selected poems, tailored for lovers of the written word.
